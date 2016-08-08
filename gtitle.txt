@@ -1,0 +1,1273 @@
+<!-- Gtitle -->	
+<fieldset style=background-color:#F2DBD3;>
+	<p style=font-size:20px>
+	Gtitle</p>
+	<p style=font-size:15px> 
+	??:</p>
+	
+G1
+  	<select name="g1">
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>  
+  	<select name="g1b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+G2 
+  	<select name="g2"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>  
+  	<select name="g2b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+G3 
+  	<select name="g3"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>  
+  	<select name="g3b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+
+G4
+  	<select name="g4"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>  
+  	<select name="g4b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+G5
+  	<select id="month_start" name="g5"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>  
+  	<select id="year_start" name="g5b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+G6
+  	<select id="month_start" name="g6"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>  
+  	<select id="year_start" name="g6b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+G7
+  	<select id="month_start" name="g7"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>  
+  	<select id="year_start" name="g7b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+G8
+  	<select id="month_start" name="g8"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>  
+  	<select id="year_start" name="g8b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+G9
+  	<select id="month_start" name="g9"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>  
+  	<select id="year_start" name="g9b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+G10
+  	<select id="month_start" name="g10"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>   
+  	<select id="year_start" name="g10b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+
+G11
+  	<select id="month_start" name="g11"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>  
+  	<select id="year_start" name="g11b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+G12
+  	<select id="month_start" name="g12"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select> 
+  	<select id="year_start" name="g12b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+
+G13
+  	<select id="month_start" name="g13"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>   
+  	<select id="year_start" name="g13b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+G14
+  	<select id="month_start" 
+          name="g14"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>   
+  	<select id="year_start" 
+name="g14b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+G15
+  	<select id="month_start" 
+          name="g15"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>  
+  	 
+  	<select id="year_start" 
+name="g15b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+
+G16
+  	<select id="month_start" 
+          name="g16"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>  
+  	 
+  	<select id="year_start" 
+name="g16b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+G17
+  	<select id="month_start" name="g17"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>  
+  	 
+  	<select id="year_start" name="g17b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+G18
+  	<select id="month_start" 
+          name="g18"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>  
+  	 
+  	<select id="year_start" 
+name="g18b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+G19
+  	<select id="month_start" 
+          name="g19"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>  
+  	 
+  	<select id="year_start" 
+name="g19b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+
+G20
+  	<select id="month_start" name="g20"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>  
+  	 
+  	<select id="year_start" name="g20b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+
+G21
+  	<select id="month_start" 
+          name="g21"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>  
+  	 
+  	<select id="year_start" 
+name="g21b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+G22
+  	<select id="month_start" 
+          name="g22"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>  
+  	 
+  	<select id="year_start" 
+name="g22b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+	
+	
+G23
+  	<select id="month_start" name="g23"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>  
+  	 
+  	<select id="year_start" name="g23b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+G24
+  	<select id="month_start" name="g24"> 
+    <option>-</option>
+	<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option>       
+    </select>  
+  	 
+  	<select id="year_start" name="g24b">
+	<option>-</option>
+    <option>1987</option>
+	<option>1988</option>
+	<option>1989</option>
+	<option>1990</option>
+	<option>1991</option>
+	<option>1992</option>
+	<option>1993</option>
+	<option>1994</option>
+	<option>1995</option>
+	<option>1996</option>
+	<option>1997</option>	
+	<option>1998</option>       
+    <option>1999</option>       
+    <option>2000</option>       
+    <option>2001</option>       
+    <option>2002</option>       
+    <option>2003</option>       
+    <option>2004</option>       
+    <option>2005</option>       
+    <option>2006</option>       
+    <option>2007</option>
+	<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option>
+	</select> </br>
+
+	Platforms <br>
+	<input type="checkbox" name="chk_group4[]" value="G25" />G25<br />
+	<input type="checkbox" name="chk_group4[]" value="G26" />G26<br />
+	<input type="checkbox" name="chk_group4[]" value="G27" />G27<br />
+	<input type="checkbox" name="chk_group4[]" value="G28" />G28<br />
+	<input type="checkbox" name="chk_group4[]" value="G29" />G29<br />
+	<input type="checkbox" name="chk_group4[]" value="G30" />G30<br />
+
+
+	</fieldset>

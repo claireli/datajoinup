@@ -1,0 +1,77 @@
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+<style>
+
+#logged_in:hover{
+	font-weight: bold;
+	cursor: pointer;
+}
+
+#dropdown{
+	position: absolute;
+	top: 75px;
+	right: 0px;
+	z-index: 5;
+}
+
+#dropdown td:hover{
+	background-color: #a2cafd;
+	color: #FFFFFF;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+#login_drop{
+	padding: 10px;
+	background-color: #c3cedc;
+	width: 200px;
+}
+
+#register_drop{
+	padding: 10px;
+	background-color: #c3cedc;
+	width: 200px;
+}
+</style>
+			
+<script>
+$(document).ready(function(){
+    
+	$("#dropdown").hide();
+	
+	$("#logged_in").click(function(){
+        $("#dropdown").slideToggle("slow");
+    });
+	
+	
+});
+</script>
+
+</script>
+</head>
+<body>
+<div id="nav">
+<table id="nav_container"><tr>
+<td><a href="landing.php"><img src="logo.png"></a></td>
+<td><a href="landing.php">Home</a></td>
+<td><a href="news.php">News</a></td>
+<td><a href="about.php">About</a></td>
+<td><a href="contact.php">Contact</a></td><td>
+		
+		<form action="search.php" method="get">
+		<input type="text" id="search" size="25px" name="query" value="Search Profiles">
+		
+		<input type="submit" value="Go" id="go"></form></td><td width="250px"><i><div align='right'><span id="logged_in">Welcome, (Guest)</span></div></i></td></tr></table>
+		</div>
+		
+		</div>
+		
+		<table id="dropdown">
+		<tr><td id="login_drop"><a href="return_user.php">Login (Returning User)</a></td></tr><tr>
+		<td id="register_drop"><a href="register_new_user.php">Register (New User)</a></td></tr>
+		</table>
+		
+</body>
+</html>
